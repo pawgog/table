@@ -1,0 +1,100 @@
+body {
+	margin: 30px;
+}
+.space_down{
+	margin-bottom: 20px;
+}
+th.NSort {
+	text-align: center;
+}
+th.WSort {
+	text-align: center;
+}
+td.sum_medal1 {
+	color: #a52a2a;
+}
+td.data_medal {
+	text-align: center;
+}
+span.icon_sort{
+	cursor:pointer;
+}
+.box {
+	width: 150px;
+	height: 30px;
+	float: right;
+	text-align: center;
+	font-weight: bold;
+	color: #a52a2a;
+	border: 1px solid #131313;
+	box-shadow: 2px 2px #d1d1d1;
+	position: relative;
+}	
+.shake_box {
+	width: 150px;
+	height: 30px;
+	float: right;
+	text-align: center;
+	font-weight: bold;
+	color: #a52a2a;
+	border: 1px solid #131313;
+	box-shadow: 2px 2px #d1d1d1;
+	position: relative;
+	animation: shake infinite 0.82s cubic-bezier(.36,.07,.19,.97) both;
+	transform: translate3d(0, 0, 0);
+	backface-visibility: hidden;
+	perspective: 1000px;
+	animation-delay: 1s;
+	animation-duration: 1s;
+}
+
+@keyframes shake {
+  10%, 90% {
+    transform: translate3d(-1px, 0, 0);
+  }
+  
+  20%, 80% {
+    transform: translate3d(2px, 0, 0);
+  }
+
+  30%, 50%, 70% {
+    transform: translate3d(-4px, 0, 0);
+  }
+
+  40%, 60% {
+    transform: translate3d(4px, 0, 0);
+  }
+}
+.box:hover {
+  animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
+  transform: translate3d(0, 0, 0);
+  backface-visibility: hidden;
+  perspective: 1000px;
+}
+
+@keyframes shake {
+  10%, 90% {
+    transform: translate3d(-1px, 0, 0);
+  }
+  
+  20%, 80% {
+    transform: translate3d(2px, 0, 0);
+  }
+
+  30%, 50%, 70% {
+    transform: translate3d(-4px, 0, 0);
+  }
+
+  40%, 60% {
+    transform: translate3d(4px, 0, 0);
+  }
+}
+tbody tr {
+        display: none;
+}
+tbody tr[class="sum_medal"], .no-result {
+        display: table-row;
+}
+/* th.NSort.WSort { */
+	/* color:red; */
+/* } */

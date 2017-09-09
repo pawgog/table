@@ -1,0 +1,242 @@
+[
+ {
+   "Lp": 1,
+   "Państwo": "USA",
+   "Złoto": 46,
+   "Srebro": 37,
+   "Brąz": 38,
+   "Razem": 121
+ },
+ {
+   "Lp": 2,
+   "Państwo": "Wlk. Brytania",
+   "Złoto": 27,
+   "Srebro": 23,
+   "Brąz": 17,
+   "Razem": 67
+ },
+ {
+   "Lp": 3,
+   "Państwo": "Chiny",
+   "Złoto": 26,
+   "Srebro": 18,
+   "Brąz": 26,
+   "Razem": 70
+ },
+ {
+   "Lp": 4,
+   "Państwo": "Rosja",
+   "Złoto": 19,
+   "Srebro": 18,
+   "Brąz": 19,
+   "Razem": 56
+ },
+ {
+   "Lp": 5,
+   "Państwo": "Niemcy",
+   "Złoto": 17,
+   "Srebro": 10,
+   "Brąz": 15,
+   "Razem": 42
+ },
+ {
+   "Lp": 6,
+   "Państwo": "Japonia",
+   "Złoto": 12,
+   "Srebro": 8,
+   "Brąz": 21,
+   "Razem": 41
+ },
+ {
+   "Lp": 7,
+   "Państwo": "Francja",
+   "Złoto": 10,
+   "Srebro": 18,
+   "Brąz": 14,
+   "Razem": 42
+ },
+ {
+   "Lp": 8,
+   "Państwo": "Korea Południowa",
+   "Złoto": 9,
+   "Srebro": 3,
+   "Brąz": 9,
+   "Razem": 21
+ },
+ {
+   "Lp": 9,
+   "Państwo": "Włochy",
+   "Złoto": 8,
+   "Srebro": 12,
+   "Brąz": 8,
+   "Razem": 28
+ },
+ {
+   "Lp": 10,
+   "Państwo": "Australia",
+   "Złoto": 8,
+   "Srebro": 11,
+   "Brąz": 10,
+   "Razem": 29
+ },
+ {
+   "Lp": 11,
+   "Państwo": "Holandia",
+   "Złoto": 8,
+   "Srebro": 7,
+   "Brąz": 4,
+   "Razem": 19
+ },
+ {
+   "Lp": 12,
+   "Państwo": "Węgry",
+   "Złoto": 8,
+   "Srebro": 3,
+   "Brąz": 4,
+   "Razem": 15
+ },
+ {
+   "Lp": 13,
+   "Państwo": "Brazylia",
+   "Złoto": 7,
+   "Srebro": 6,
+   "Brąz": 6,
+   "Razem": 19
+ },
+ {
+   "Lp": 14,
+   "Państwo": "Hiszpania",
+   "Złoto": 7,
+   "Srebro": 4,
+   "Brąz": 6,
+   "Razem": 17
+ },
+ {
+   "Lp": 15,
+   "Państwo": "Kenia",
+   "Złoto": 6,
+   "Srebro": 6,
+   "Brąz": 1,
+   "Razem": 13
+ },
+ {
+   "Lp": 16,
+   "Państwo": "Jamajka",
+   "Złoto": 6,
+   "Srebro": 3,
+   "Brąz": 2,
+   "Razem": 11
+ },
+ {
+   "Lp": 17,
+   "Państwo": "Chorwacja",
+   "Złoto": 5,
+   "Srebro": 3,
+   "Brąz": 2,
+   "Razem": 10
+ },
+ {
+   "Lp": 18,
+   "Państwo": "Kuba",
+   "Złoto": 5,
+   "Srebro": 2,
+   "Brąz": 4,
+   "Razem": 11
+ },
+ {
+   "Lp": 19,
+   "Państwo": "Nowa Zelandia",
+   "Złoto": 4,
+   "Srebro": 9,
+   "Brąz": 5,
+   "Razem": 18
+ },
+ {
+   "Lp": 20,
+   "Państwo": "Kanada",
+   "Złoto": 4,
+   "Srebro": 3,
+   "Brąz": 15,
+   "Razem": 22
+ },
+ {
+   "Lp": 21,
+   "Państwo": "Uzbekistan",
+   "Złoto": 4,
+   "Srebro": 2,
+   "Brąz": 7,
+   "Razem": 13
+ },
+ {
+   "Lp": 22,
+   "Państwo": "Kazachstan",
+   "Złoto": 3,
+   "Srebro": 5,
+   "Brąz": 9,
+   "Razem": 17
+ },
+ {
+   "Lp": 23,
+   "Państwo": "Kolumbia",
+   "Złoto": 3,
+   "Srebro": 2,
+   "Brąz": 3,
+   "Razem": 8
+ },
+ {
+   "Lp": 24,
+   "Państwo": "Szwajcaria",
+   "Złoto": 3,
+   "Srebro": 2,
+   "Brąz": 2,
+   "Razem": 7
+ },
+ {
+   "Lp": 25,
+   "Państwo": "Iran",
+   "Złoto": 3,
+   "Srebro": 1,
+   "Brąz": 4,
+   "Razem": 8
+ },
+ {
+   "Lp": 26,
+   "Państwo": "Grecja",
+   "Złoto": 3,
+   "Srebro": 1,
+   "Brąz": 2,
+   "Razem": 6
+ },
+ {
+   "Lp": 27,
+   "Państwo": "Argentyna",
+   "Złoto": 3,
+   "Srebro": 1,
+   "Brąz": 0,
+   "Razem": 4
+ },
+ {
+   "Lp": 28,
+   "Państwo": "Dania",
+   "Złoto": 2,
+   "Srebro": 6,
+   "Brąz": 7,
+   "Razem": 15
+ },
+ {
+   "Lp": 29,
+   "Państwo": "Szwecja",
+   "Złoto": 2,
+   "Srebro": 6,
+   "Brąz": 3,
+   "Razem": 11
+ },
+ {
+   "Lp": 30,
+   "Państwo": "Republika Południowej Afryki",
+   "Złoto": 2,
+   "Srebro": 6,
+   "Brąz": 2,
+   "Razem": 10
+ }
+]

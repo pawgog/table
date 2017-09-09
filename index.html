@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Projekt strony www</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+	<link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+      <div class="container">
+      <h2 class="space_down">Klasyfikacja medalowa Letnich Igrzysk Olimpijskich w Rio de Janeiro w 2016</h2>
+	  <button id="showTable" type="button" class="space_down btn btn-info">Pobierz tabelę</button><button id="hideTable" type="button" class="space_down btn btn-danger">Ukryj tabelę</button><a href="#myPanel" class="sumMedal"><button class='addIt space_down btn btn-info pull-right'>Suma wszystkich medali</button></a>
+      <div>
+      <form>
+		<div class="form-group pull-right">
+    		<input type="text" class="search form-control" placeholder="Szukaj...">
+  		</div>
+      </form>
+      </div>
+      <div>
+        <table id="myTable" class="tablesorter table table-bordered table-striped results">
+            <thead>
+            <tr class="header_table">
+            <th class="NSort">Miejsce<span class="icon_sort glyphicon glyphicon-sort pull-right"></span></th>
+			<th class="WSort">Państwo<span class="icon_sort glyphicon glyphicon-sort pull-right"></span></th>
+            <th class="NSort">Złoto<span class="icon_sort glyphicon glyphicon-sort pull-right"></span></th>
+            <th class="NSort">Srebro<span class="icon_sort glyphicon glyphicon-sort pull-right"></span></th>
+            <th class="NSort">Brąz<span class="icon_sort glyphicon glyphicon-sort pull-right"></span></th>
+            <th class="NSort">Razem<span class="icon_sort glyphicon glyphicon-sort pull-right"></span></th>
+            </tr>
+            </thead>
+        </table>
+    </div>
+    <div id="myPanel"></div>
+	</div>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+ 	<script src="script.js"></script>
+  </body>
+</html>
